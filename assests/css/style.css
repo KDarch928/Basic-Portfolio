@@ -1,0 +1,73 @@
+body {
+	background-image: url("../images/dust_scratches.png");
+	margin:auto;
+}
+
+.header {
+	width: 100%;
+	display: inline-block;
+	background-color: #ffffff;
+}
+
+.logo {
+	background-color: #4aaaa5;
+	width: 40%;
+	text-align: center;
+	padding: 10px;
+}
+
+.header-title {
+	background-color: yellow;
+	width: 650px;
+	margin-left: 20px;
+	float:left;
+	clear: both;
+}
+
+.header-link {
+	width: 270px;
+	margin-left: 40px;
+	background-color: green;
+	float: left;
+	margin-top: 20px;
+}
+
+.link1 {
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+
+.link2 {
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+
+.link3 {
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+
+.entire-content{
+	margin-top: 20px;
+	width: 100%;
+}
+
+.section-content {
+	background-color: #ffffff;
+	width: 650px;
+	margin-left: 20px;
+	float: left;
+	clear: both;
+}
+
+.sidebar {
+	width: 270px;
+	margin-left: 40px;
+	background-color: #ffffff;
+	float: left;
+}
+
+
