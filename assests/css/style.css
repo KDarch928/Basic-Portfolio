@@ -169,6 +169,45 @@ a:hover {
 	color: #cccccc;
 }
 
+.photo {
+	margin:20px;
+	float: left;
+	clear:both;
+}
+
+.stext {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	line-height: 20px;
+}
+
+.form {
+	margin-left: 20px;
+	margin-top: 20px;
+	line-height: 30px;
+}
+
+.btn {
+	background-color: #4aaaa5;
+	color: #ffffff;
+	margin-top: 10px;
+	font-size: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.field {
+	height: 20px;
+	width: 600px;
+}
+
+.textbox {
+	height: 90px;
+	width: 600px;
+}
 
 
 
